@@ -1,0 +1,9 @@
+{
+  "name": "Video uploader",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
